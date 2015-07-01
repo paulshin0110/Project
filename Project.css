@@ -1,0 +1,21 @@
+h1 {
+  text-align : center;
+}
+
+img {
+  width : 40%;
+  float: left;
+  margin-right: 15px;
+}
+h2 {
+  height:10;
+}
+body{
+  background-color: skyblue;
+} 
+#clubs{
+  width : 20%;
+  margin-right: 10px;
+}
+
+  
