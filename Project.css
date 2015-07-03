@@ -23,5 +23,32 @@ body{
 .title{
   font-family:"Impact";
 }
+#scoring {
+  width:50%;
+}
+th, td {
+  border : 2px solid black;
+}
 
-  
+table {
+  border-collapse: collapse;
+}
+body {
+  width: 960px;
+  margin: 0px auto;
+}
+#Tiger{
+  width:170px;
+}
+#Phill {
+  width:170px;
+}
+tr:hover {
+  background-color: #66FFE0;
+}
+nav a {
+  color:red;
+}
+.active {
+  color: red;
+}
