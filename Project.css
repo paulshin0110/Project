@@ -6,9 +6,10 @@ h1 {
 }
 
 img {
-  width : 40%;
+  width : 35%;
   float: left;
   margin-right: 15px;
+  height:300px;
 }
 h2 {
   height:10;
@@ -52,3 +53,8 @@ nav a {
 .active {
   color: red;
 }
+video{
+  width:350px;
+  height:500px;
+}
+
