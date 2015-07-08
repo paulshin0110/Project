@@ -1,7 +1,6 @@
 h1 {
   text-align : center;
   padding :5px;
-  border: 10px solid pink;
   margin: 10px;
 }
 
@@ -10,6 +9,8 @@ img {
   float: left;
   margin-right: 15px;
   height:300px;
+  position: relative;
+  left: 20px;
 }
 h2 {
   height:10;
@@ -57,4 +58,11 @@ video{
   width:350px;
   height:500px;
 }
-
+#family {
+  float:left;
+  height:500px;
+}
+#video {
+  height:500px;
+  width:400px;
+}  
