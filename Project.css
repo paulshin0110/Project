@@ -16,7 +16,7 @@ h2 {
   height:10;
 }
 body{
-  background-image: url("paisley.png");
+  background-image: url("http://www.zingerbug.com/Backgrounds/background_images/green_bamboo_wallpaper_tileable.jpg");
 } 
 #clubs{
   width : 30%;
@@ -66,3 +66,9 @@ video{
   height:500px;
   width:400px;
 }  
+p {
+  font-size: 24px;
+}
+.lightbg {
+  background-image: url("paisley.png")
+}
